@@ -1,0 +1,11 @@
+.login100-form-logo {
+    background-color: white;
+}
+
+td {
+    text-transform: capitalize;
+}
+.error
+{
+    color: red !important;
+}
